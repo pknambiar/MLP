@@ -1,5 +1,5 @@
 # MLP
-C++ code that I wrote about 20 years ago modelling an n-layer MLP Neural Network.
+C++ code that I wrote about 20 years ago modelling a n-layer MLP Neural Network.
 
 This code was part of another project...; however, wanted to put just the NN part here, just in case someone wants to refer it (quite unlikely but).
 These were the days where these neurons were hand-coded, assembled into an NN_Layer class.
